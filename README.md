@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Repo files
 
-Bla bla bla
-Hello World
+1. index.html
